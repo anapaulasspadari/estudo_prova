@@ -1,3 +1,8 @@
 h1{
+    text-align: center;
     color:chocolate
+}
+tr{
+    border-color:black;
+    background-color: rgb(216, 187, 149);
 }
